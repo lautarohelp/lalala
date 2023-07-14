@@ -1,6 +1,11 @@
-body{
+#letras{
     color: blue;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: black;
+    
+}
+#color{
+  background-color: black;
+  border-style: double;
+  color: brown;
 }

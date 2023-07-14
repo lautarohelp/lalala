@@ -1,3 +1,10 @@
+#cabezera{
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: aqua;
+
+}
 #letras{
     color: blue;
     text-align: center;
@@ -8,4 +15,10 @@
   background-color: black;
   border-style: double;
   color: brown;
+}
+.jpg{
+    text-align: center;
+    color: aqua;
+    border-radius: 2%;
+    tex
 }
